@@ -1,3 +1,6 @@
+xfstests (17 Aug 2016)
+	- repository at oss.sgi.com not longer updated.
+
 xfstests-1.1.1 (11 December 2012)
 	- Many bugfixes for existing tests.
 	- Tests 264-291 have been added to the suite.
